@@ -1,0 +1,157 @@
+Show,Seasons,Cancelled,Premiere_Year,Finale_Year,Length_Format
+Agents of SHIELD,7,Yes,2013,2020,60
+The Flash,9,Yes,2014,2023,60
+Arrow,8,Yes,2012,2020,60
+Supergirl,6,Yes,2015,2021,60
+Legends of Tomorrow,7,Yes,2016,2022,60
+Black Lightning,4,Yes,2018,2021,60
+Batwoman,3,Yes,2019,2022,60
+Daredevil,3,Yes,2015,2018,60
+Jessica Jones,3,Yes,2015,2019,60
+Luke Cage,2,Yes,2016,2018,60
+Iron Fist,2,Yes,2017,2018,60
+The Punisher,2,Yes,2017,2019,60
+The Defenders,1,Yes,2017,2017,60
+Cloak and Dagger,2,Yes,2018,2019,60
+Game of Thrones,8,Yes,2011,2019,60
+The Office,9,Yes,2005,2013,30
+Parks and Recreation,7,Yes,2009,2015,30
+How I Met Your Mother,9,Yes,2005,2014,30
+Gossip Girl,6,Yes,2007,2012,60
+Pretty Little Liars,7,Yes,2010,2017,60
+Pretty Little Liars: The Perfectionists,1,Yes,2019,2019,60
+90210,5,Yes,2008,2013,60
+The Vampire Diaries,8,Yes,2009,2017,60
+The Originals,5,Yes,2013,2018,60
+Legacies,4,Yes,2018,2022,60
+Jane the Virigin,5,Yes,2014,2019,60
+Crazy Ex Girlfriend,4,Yes,2015,2019,60
+The Good Place,4,Yes,2016,2020,30
+13 Reasons Why,4,Yes,2017,2020,60
+Stranger Things,4,No,2016,,60
+The Umbrella Academy,3,No,2019,,60
+A Series of Unfortunate Events,3,Yes,2017,2019,60
+Friends,10,Yes,1994,2004,30
+Riverdale,7,Yes,2017,2023,60
+Glee,6,Yes,2009,2015,60
+Greys Anatomy,19,No,2005,,60
+Young and Hungry,5,Yes,2014,2018,30
+New Girl,7,Yes,2011,2018,30
+Green House Academy,4,Yes,2017,2020,30
+Insatiable,2,Yes,2018,2019,60
+On My Block,4,Yes,2018,2021,30
+The Unbreakable Kimmy Schmidt,4,Yes,2015,2020,30
+Dynasty,5,Yes,2017,2022,60
+The Carrie Diaries,2,Yes,2013,2014,60
+Girl Boss,1,Yes,2017,2017,30
+Life Sentence,1,Yes,2018,2018,60
+Hater Back Off,2,Yes,2016,2017,30
+Tidying Up,1,Yes,2019,2019,60
+Designated Survivor,3,Yes,2016,2019,60
+The Boys,3,No,2019,,60
+Euphoria,2,No,2019,,60
+Lucifer,6,Yes,2016,2021,60
+The Politician,2,Yes,2019,2020,60
+Living With Yourself,1,Yes,2019,2019,30
+Victorious,3,Yes,2010,2014,30
+Runaways,3,Yes,2017,2019,60
+The Mandalorian,3,No,2019,,60
+High School Musical: The Musical: The Series,4,Yes,2019,2023,30
+Wizards of Waverly Place,4,Yes,2007,2012,30
+You,4,No,2018,,60
+Sex Education,4,Yes,2019,2023,60
+Schitt's Creek,6,Yes,2015,2020,30
+Inhumans,1,Yes,2017,2017,60
+Community,6,Yes,2009,2015,30
+30 Rock,7,Yes,2006,2013,30
+Quantico,3,Yes,2015,2018,60
+Outer Banks,3,No,2020,,60
+Dead to Me,3,Yes,2019,2022,30
+Space Force,2,Yes,2020,2022,30
+Orange is the New Black,7,Yes,2013,2019,60
+Breaking Bad,5,Yes,2008,2013,60
+Better Call Saul,6,Yes,2015,2022,60
+How to Get Away With Murder,5,Yes,2014,2020,60
+Big Little Lies,2,Yes,2017,2019,60
+Brooklyn Nine-Nine,8,Yes,2013,2021,30
+Upload,3,No,2020,,30
+Watchmen,1,Yes,2019,2019,60
+Good Girls,4,Yes,2018,2021,60
+The Blacklist,10,Yes,2013,2023,60
+Hunters,2,Yes,2020,2023,60
+The Crown,5,No,2016,,60
+Good Omens,2,No,2019,,60
+Killing Eve,4,Yes,2018,2023,60
+The Handmaid's Tale,5,No,,,60
+Wandavision,1,Yes,2021,2021,30
+The Good Doctor,5,No,2017,,60
+Bridgerton,2,No,2020,,60
+Little Fires Everywhere,1,Yes,2020,2020,60
+The Act,1,Yes,2019,2019,60
+Modern Family,11,Yes,2009,2020,30
+The Falcon and the Winter Soldier,1,Yes,2021,2021,60
+Prodigal Son,2,Yes,2019,2021,60
+Shadow and Bone,2,No,2021,,60
+Boston Legal,5,Yes,2004,2008,30
+Mrs. Fletcher,1,Yes,2019,2019,60
+Loki,2,No,2021,,60
+Blindspot,5,Yes,2015,2020,60
+What If?,1,No,2021,,30
+All American,5,No,2018,,60
+Only Murders in the Building,3,No,2021,,30
+The Marvelous Mrs. Maisel,5,Yes,2017,2023,60
+Squid Game,1,No,2021,,60
+Superstore,6,Yes,2015,2021,30
+The Sex Life of College Girls,2,No,2021,,30
+Hawkeye,1,No,2021,,60
+Kim's Convience,5,Yes,2016,2021,30
+The Book of Boba Fett,1,Yes,2021,2022,60
+The Chair,1,Yes,2021,2021,30
+The Great,3,Yes,2020,2023,60
+Cobra Kai,5,No,2018,,30
+Imposters,2,Yes,2017,2018,60
+Shameless,11,Yes,2011,2021,60
+Moon Knight,1,No,2022,,60
+Abbot Elementary,2,No,2021,,30
+Ozark,5,Yes,2017,2022,60
+Obi-Wan Kenobi,1,Yes,2022,,60
+Ms. Marvel,1,No,2022,,30
+Hacks,2,No,2021,,30
+Barry,4,Yes,2018,2023,30
+Succession,4,Yes,2018,2023,60
+She Hulk,1,No,2022,,30
+What We Do in the Shadows,5,No,2019,,30
+House of the Dragon,1,No,2022,,60
+Fleabag,2,Yes,2016,2019,30
+Reboot,1,Yes,2022,2022,30
+Andor,1,No,2022,,60
+The White Lotus,2,No,2021,,60
+Curb Your Enthusiasm,11,No,2000,,30
+Wednesday,1,No,2022,,60
+Our Flag Means Death,2,No,2022,,30
+Never Have I Ever,4,Yes,2020,2023,30
+The Gifted,2,Yes,2017,2019,60
+The Bear,2,No,2022,,30
+It's Always Sunny in Philadelphia,16,No,2005,,30
+Party Down,3,No,2009,,30
+The Last of Us,1,No,2023,,60
+Arrested Development,5,Yes,2003,2019,30
+Beef,1,Yes,2023,2023,60
+Love and Death,1,Yes,2023,2023,60
+Nora From Queens,3,No,2020,,30
+Queen Charlotte: A Bridgerton Story,1,Yes,2023,2023,60
+Unstable,1,No,2023,,30
+Secret Invasion,1,Yes,2023,2023,60
+The Queen's Gambit,1,Yes,2020,2020,60
+Jury Duty,1,Yes,2023,2023,30
+Ted Lasso,3,Yes,2020,2023,30
+Dickinson,3,Yes,2019,2021,30
+The Morning Show,3,No,2019,,60
+Ahsoka,1,No,2023,,30
+Shrinking,1,No,2023,,30
+Severance,1,No,2022,,60
+Loot,1,No,2022,,30
+Little Voice,1,Yes,2020,2020,60
+Schmigadoon,2,No,2021,,30
+Veep,7,Yes,2012,2019,30
+Suits,8,Yes,2011,2019,60

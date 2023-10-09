@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "push_test",
+    "title": "TV Show Tracker",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "data %>% \n  ggplot(aes(x=Seasons, \n             fill=factor(Length_Format, \n                         labels=c(\"30 min.\", \"60 min.\"))))+\n  geom_bar(color=\"black\", position=\"dodge\")+\n  scale_x_continuous(breaks=seq(0, 20, 2))+\n  scale_y_continuous(breaks=seq(0, 30, 5))+\n  scale_fill_manual(values=c(\"#6699ff\", \"#000099\"))+\n  labs(x=\"Number of Seasons\",\n       y=\"Frequency\", \n       fill=\"Length \\nFormat\",\n       title=\"Shows Watched by Number of Seasons and Length Format\")"
   },
   {
     "objectID": "about.html",

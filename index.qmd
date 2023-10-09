@@ -1,11 +1,23 @@
 ---
-title: "push_test"
+title: "TV Show Tracker"
 ---
 
-This is a Quarto website.
+```{r message=FALSE}
+library(tidyverse)
+data <- read_csv("TV Shows Watched.csv")
+```
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
+```{r message=FALSE}
+data %>% 
+  ggplot(aes(x=Seasons, 
+             fill=factor(Length_Format, 
+                         labels=c("30 min.", "60 min."))))+
+  geom_bar(color="black", position="dodge")+
+  scale_x_continuous(breaks=seq(0, 20, 2))+
+  scale_y_continuous(breaks=seq(0, 30, 5))+
+  scale_fill_manual(values=c("#6699ff", "#000099"))+
+  labs(x="Number of Seasons",
+       y="Frequency", 
+       fill="Length \nFormat",
+       title="Shows Watched by Number of Seasons and Length Format")
 ```
